@@ -1,0 +1,9 @@
+c:\users\lasse\documents\visual studio 2013\Projects\Drag_and_Drop_\Drag_and_Drop\bin\Debug\Drag_and_Drop.exe.config
+c:\users\lasse\documents\visual studio 2013\Projects\Drag_and_Drop_\Drag_and_Drop\bin\Debug\Drag_and_Drop.exe
+c:\users\lasse\documents\visual studio 2013\Projects\Drag_and_Drop_\Drag_and_Drop\bin\Debug\Drag_and_Drop.pdb
+c:\users\lasse\documents\visual studio 2013\Projects\Drag_and_Drop_\Drag_and_Drop\obj\Debug\Drag_and_Drop.csprojResolveAssemblyReference.cache
+c:\users\lasse\documents\visual studio 2013\Projects\Drag_and_Drop_\Drag_and_Drop\obj\Debug\Drag_and_Drop.Form1.resources
+c:\users\lasse\documents\visual studio 2013\Projects\Drag_and_Drop_\Drag_and_Drop\obj\Debug\Drag_and_Drop.Properties.Resources.resources
+c:\users\lasse\documents\visual studio 2013\Projects\Drag_and_Drop_\Drag_and_Drop\obj\Debug\Drag_and_Drop.csproj.GenerateResource.Cache
+c:\users\lasse\documents\visual studio 2013\Projects\Drag_and_Drop_\Drag_and_Drop\obj\Debug\Drag_and_Drop.exe
+c:\users\lasse\documents\visual studio 2013\Projects\Drag_and_Drop_\Drag_and_Drop\obj\Debug\Drag_and_Drop.pdb
